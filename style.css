@@ -1,0 +1,15 @@
+*{
+    font-family: 'EB Garamond', serif;
+}
+.section-1{
+    background-image: url("images/aaron-burden-cEukkv42O40-unsplash-edited.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.section-3 .col-6 .container {
+    padding: 2vh;
+    margin: 1vh;
+}
