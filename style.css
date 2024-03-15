@@ -1,0 +1,10 @@
+.section-1 {
+    margin-top: 5vh;
+}
+.section-1 .gambar img {
+    height: 75vh;
+    /* width: 30vw; */
+}
+.section-1 .textKeterangan{
+    padding-left: 15em;
+}
