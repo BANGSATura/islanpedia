@@ -1,10 +1,29 @@
+body{
+   background-color: #004D8F;
+}
 .section-1 {
-    margin-top: 5vh;
+    margin-top: 10vh;
 }
 .section-1 .gambar img {
-    height: 75vh;
-    /* width: 30vw; */
+    width: 30vw;
+    height: 115vh;
 }
 .section-1 .textKeterangan{
-    padding-left: 15em;
+    padding-left: 14em;
+}
+.section-2 {
+    margin-top: 10vh;
+}
+.section-2 h1,h2{
+    text-align: center;
+}
+.section-2 p{
+    text-align: justify;
+}
+.section-2 .col img{
+   height: 5em;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  
 }
